@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AHT-calculator/static/css/main.f4d2505c.css",
+    "main.js": "/AHT-calculator/static/js/main.03bbb63c.js",
+    "static/js/787.e25d140a.chunk.js": "/AHT-calculator/static/js/787.e25d140a.chunk.js",
+    "static/media/logo.svg": "/AHT-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AHT-calculator/index.html",
+    "main.f4d2505c.css.map": "/AHT-calculator/static/css/main.f4d2505c.css.map",
+    "main.03bbb63c.js.map": "/AHT-calculator/static/js/main.03bbb63c.js.map",
+    "787.e25d140a.chunk.js.map": "/AHT-calculator/static/js/787.e25d140a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d2505c.css",
+    "static/js/main.03bbb63c.js"
+  ]
+}
